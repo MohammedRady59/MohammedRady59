@@ -20,8 +20,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,next,react,reactnative,redux,firebase,git&perline=8" />
 </p>
-
-<!---
-amrbahnas/amrbahnas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
