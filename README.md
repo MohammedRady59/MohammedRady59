@@ -76,18 +76,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **FreshCart V2** | Full-scale modern e-commerce application featuring comprehensive cart flows, filtering, and Stripe payment gateway. | `Next.js` `TypeScript` `Redux` `Stripe` `MUI` | [🌐 Live Demo](https://fresh-cart-v2-tau.vercel.app/) · [💻 Code](https://github.com/MohammedRady59/FreshCart-V2) |
-| **BookPoint** | Interactive book discovery and review platform with real-time data synchronization, ratings, and catalog search. | `Next.js` `TypeScript` `RTK Query` `MUI` | [🌐 Live Demo](https://bookpoint.vercel.app/) · [💻 Code](https://github.com/MohammedRady59/BOOKPOINT) |
-| **VS Code Web Clone** | In-browser code editor inspired by VS Code featuring resizable panels, multiple tabs, and syntax highlighting. | `React` `TypeScript` `Redux Toolkit` `Tailwind` | [🌐 Live Demo](https://visual-studio-code-clone-kappa.vercel.app/) · [💻 Code](https://github.com/MohammedRady59/Visual-Studio-Code-Clone) |
-| **Al-Maoza (Quran)** | Comprehensive Islamic web platform with recitation player, Azkar counter, and interactive Quran reader. | `React` `TypeScript` `React Query` `Tailwind` | [🌐 Live Demo](https://quran-kareem-eta.vercel.app/) · [💻 Code](https://github.com/MohammedRady59/Quran-Kareem) |
-| **HooBank** | Next-generation banking landing page with sleek glassmorphism, responsive navigation, and modern micro-interactions. | `React.js` `Tailwind CSS` `Responsive UI` | [🌐 Live Demo](https://hoobank-ten-snowy.vercel.app/) · [💻 Code](https://github.com/MohammedRady59/Hoobank) |
-
----
-
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
