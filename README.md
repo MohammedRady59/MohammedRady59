@@ -76,24 +76,6 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MohammedRady59&show_icons=true&theme=tokyonight&hide_border=true&title_color=10B981&icon_color=10B981&text_color=94A3B8" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohammedRady59&theme=tokyonight&hide_border=true&ring=10B981&fire=10B981&currStreakNum=10B981&sideNums=E2E8F0&dates=94A3B8" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohammedRady59&layout=compact&theme=tokyonight&hide_border=true&title_color=10B981&text_color=94A3B8" alt="Top Languages" />
-</p>
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect!
