@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Mohamed Rady 👋
-### Front-End Developer & Shopify Theme Specialist
+### Front-End Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Front-End+Developer;Shopify+Theme+Developer;React+%26+Next.js+Specialist;Passionate+Web+Engineer)](https://portfolio-mohamed-radys-projects-b9f427a8.vercel.app/)
 
