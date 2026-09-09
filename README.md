@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Front-End+Developer;Shopify+Theme+Developer;React+%26+Next.js+Specialist;Passionate+Web+Engineer)](https://portfolio-mohamed-radys-projects-b9f427a8.vercel.app/)
 
 <p align="center">
-  <a href="https://portfolio-mohamed-radys-projects-b9f427a8.vercel.app/" target="_blank">
+  <a href="https://portfolio-rady.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-rady-504192289" target="_blank">
