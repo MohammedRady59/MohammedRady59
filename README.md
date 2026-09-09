@@ -94,7 +94,7 @@ Whether you have a question, want to collaborate on a project, or need high-conv
   <a href="https://www.linkedin.com/in/mohamed-rady-504192289">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Rady-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-mohamed-radys-projects-b9f427a8.vercel.app/">
+  <a href="https://portfolio-rady.vercel.app>
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-10B981?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
